@@ -123,7 +123,7 @@ ai_brain.predict(input_scaled)
 
 Sample Input:
 
-I![GitHub Logo](./n4.jpeg)
+![GitHub Logo](./n4.jpeg)
 
 Sample Output:
 
